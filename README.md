@@ -1,6 +1,6 @@
 # Programacion_Avanzada
 
-todos los ejercicios son de elaboracion propia con algunas partes intervenidas y/o agregadas por AI 
+Todos los ejercicios son de elaboracion propia con algunas partes intervenidas y/o agregadas por AI 
 
 Los comentarios fueron los sugeridos por Replit
 
@@ -24,3 +24,5 @@ Modificar el programa de los Problemas 8.1 y
 8.2 para obtener los siguientes listados:
 • Clientes en estado moroso, con factura inferior a una cantidad.
 • Clientes en estado pagado con factura mayor de una determinada cantidad.
+
+Nota: El 8.1, 8.2 y 8.3 se hicieron en el mismo .cpp por practicidad ya que el 8.2 y 8.3 eran continuaciones del 8.1.
